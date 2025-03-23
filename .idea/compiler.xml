@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Spring Data Auto Mapping Objects" />
+        <module name="13. Exercise - Spring Data Auto Mapping Objects" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="13. Spring Data Auto Mapping Objects" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="13. Exercise - Spring Data Auto Mapping Objects" options="-parameters" />
+      <module name="13. Spring Data Auto Mapping Objects" options="-parameters" />
+      <module name="Spring Data Auto Mapping Objects" options="-parameters" />
+    </option>
+  </component>
+</project>
