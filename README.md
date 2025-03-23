@@ -1,4 +1,4 @@
-# Game-Store-Console-Application
+# Game Store Console Application
 
 ## Description
 **Game Store Console Application**  
